@@ -23,6 +23,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "dotenv"
   spec.add_dependency "mem"
   spec.add_dependency "slop"
+  spec.add_dependency "webrick"
   spec.add_development_dependency "rake"
   spec.add_development_dependency "rspec", "3.4.0"
   spec.add_development_dependency "simplecov"
